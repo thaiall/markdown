@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# การใช้พาวเวอร์พ้อยท์สอนออนไลน์ 
 
-You can use the [editor on GitHub](https://github.com/thaiall/markdown/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- Powerpoint Presentation for Teaching
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- เครื่องมือหนึ่งที่ได้รับความนิยมในการสอนออนไลน์ คือ พาวเวอร์พ้อยท์ เพื่อควบคุมทิศทาง หัวข้อ ประเด็นที่ต้องการสื่อสาร
+ให้เห็นข้อความ แผนภาพ เสียง และคลิ๊ปวีดีโอตามแผนการสอนได้อย่างชัดเจน
+สามารถแทรกเว็บแคมที่มีภาพผู้สอนไปในแต่ละสไลด์ได้ 
+สามารถใช้ได้ทั้งสอนสด (Live) ออกไปทางโปรแกรมสอนออนไลน์เช่น Zoom, Webex, Google Meet หรือ MS Teams
+หรือบันทึกเป็นคลิ๊ปแล้วให้ผู้เรียนมาเปิดดูได้ในภายหลัง (Video on Demand) ซึ่งมีเครื่องมือบันทึกการสอนผ่านสไลด์อีกมากมาย 
+อาทิ Office Mix, Camtasia, Snagit, OBS Studio หรือ Camstudio (Open source) 
+หรือใช้คุณสมบัติที่มีในพาวเวอร์พ้อยท์ด้วยการคลิ๊ปเลือก Menubar, Slide Show, Record Slide Show, Start Recording from Beginning หรือ Start Recording from Current Slide
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thaiall/markdown/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- https://www.presentation-guru.com/create-the-best-video-presentations-with-these-innovative-tools/
